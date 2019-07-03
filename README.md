@@ -29,6 +29,6 @@ python reflection_removal.py 2
 python reflection_removal.py 3 test_image.png
 
 ## Results
-
+![output](output1.PNG)
 
 
